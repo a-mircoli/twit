@@ -6,8 +6,12 @@ The dataset is in the form: "ID, Text, Annotation", where the annotation is expr
 0 | happiness
 
 1 | trust
+
 2 | sadness
+
 3 | anger
+
 4 | fear
+
 5 | disgust
 
