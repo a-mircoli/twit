@@ -1,4 +1,4 @@
-# twit
+# TwIT: Italian Twitter Dataset for emotion recognition
 A large dataset of Italian manually annotated tweets.
 
 The dataset is in the form: "ID, Text, Annotation", where the annotation is expressed as a number in [0, 5], on the basis of the following correspondences:
